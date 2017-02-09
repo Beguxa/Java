@@ -1,0 +1,5 @@
+1. Array and its types
+2. Types of loop
+3. Variable argument function
+4. java.util.Arrays and its methods
+5. Difference between array of premitive and non premitive types.
